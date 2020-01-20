@@ -1,4 +1,4 @@
-# Projet
+# School programming project
 
 Data: Mexico city subway (163 stations)
 
