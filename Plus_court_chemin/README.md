@@ -7,3 +7,5 @@ Data: Mexico city subway (163 stations)
 Strategy chosen: Floyd-Warshall algorithm (because of the relatively low number of stations)
 
 Distance calculation : simple one because of the size of Mexico city.
+
+Software : Python
